@@ -37,8 +37,6 @@ const leftCount=getConvertedValue('left');
 document.getElementById('left').innerText=leftCount-1;
 
 
-
-
         const div=document.createElement('div');
         div.classList.add('selected-players');
 
